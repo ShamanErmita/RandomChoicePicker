@@ -1,8 +1,7 @@
 # RandomChoicePicker
-https://github.com/ShamanErmita/RandomChoicePicker/assets/131605405/a52d4563-993e-497c-9aca-705e85ce2029
+![Captura de ecrã 2024-02-11 194612](https://github.com/ShamanErmita/RandomChoicePicker/assets/131605405/9b7caf9c-e639-4e96-b700-0437c2eeed1e)
 ## Description:
-### Simple QR Code Generator for URL, text, phone numbers and emails.
-
+### Not much to say just write words (one in each line) and then it chooses a random word
 <p align="center">
 And enjoy 😀
 </p>
